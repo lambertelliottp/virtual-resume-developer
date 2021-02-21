@@ -5,13 +5,13 @@ For my project manamgnet course, I created a virtual resume developer. In theory
 
 ## How to
 To use this demo simply run index.html in your browser. Hovering over the menu button will present a list of options from which to choose. 
-### "Begin Buliding" 
+##### "Begin Buliding" 
 This page presents the user with a form to fill out personal invomrattion that would usuallt be found within a normal resume document.
-### "Help" (incomplete)
+##### "Help" (incomplete)
 This page will present the users with a list of detailed instructions on how to use the website and developer. 
-### "Who are we?" (incomplete)
+##### "Who are we?" (incomplete)
 This page will give the users an understanding of the develpoers and designers behind the project. 
-### "Resume Examples"
+##### "Resume Examples"
 This page presents the user with an exmaple output of the Virtual Resume Developer.
 
 ## Looking Ahead
