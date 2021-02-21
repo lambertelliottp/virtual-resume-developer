@@ -1,0 +1,133 @@
+html, body {
+  background-color: #4ca64c;
+  height: 100%;
+}
+
+/* heading */
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-family: verdana;
+  padding: 16px;
+  font-size: 30px;
+  border: none;
+}
+
+/* logo */
+.logo{
+text-align: center;
+}
+
+
+/* intro-text */
+.intro-text {
+color: #ffffff;
+font-weight: bold;
+text-align: center;
+font-family: verdana;
+padding: 16px;
+font-size: 30px;
+border: none;
+padding-top: 100px;
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+
+.index_dropdown
+{
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content */
+.dropdown-content
+{
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-family: verdana;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a
+{
+  color: #000000;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #C0C0C0;}
+
+/* Show the dropdown menu on hover */
+.index-dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.index-dropdown:hover .dropbtn {background-color: #C0C0C0}
+
+footer {
+  margin-top: 620px;
+  color: #ffffff;
+  font-family: verdana;
+  text-align: center;
+}
+
+
+/* css for form */
+
+.form_head {
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-family: verdana;
+  padding: 16px;
+  font-size: 25px;
+  border: none;
+}
+
+.form{
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  font-family: verdana;
+  padding: 16px;
+  font-size: 25px;
+  border: none;
+}
+
+
+/* paragraph format */
+.summary {
+  color: #ffffff;
+  font-weight: normal;
+  text-align: left;
+  font-family: verdana;
+  padding: 16px;
+  font-size: 18px;
+  border: none;
+}
+
+.res_header {
+  color: #ffffff;
+  font-weight: normal;
+  text-align: center;
+  font-family: verdana;
+  padding: 16px;
+  font-size: 18px;
+  border: none;
+}
